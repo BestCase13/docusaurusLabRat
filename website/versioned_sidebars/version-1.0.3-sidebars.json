@@ -1,0 +1,25 @@
+{
+  "version-1.0.3-docs": {
+    "Docusaurus": [
+      "version-1.0.3-doc1"
+    ],
+    "First Category": [
+      "version-1.0.3-doc2"
+    ],
+    "Second Category": [
+      "version-1.0.3-doc3"
+    ],
+    "Star Wars": [
+      "version-1.0.3-star_wars"
+    ],
+    "Dollar Trilogy": [
+      "version-1.0.3-dollar_trilogy"
+    ]
+  },
+  "version-1.0.3-docs-other": {
+    "First Category": [
+      "version-1.0.3-doc4",
+      "version-1.0.3-doc5"
+    ]
+  }
+}
