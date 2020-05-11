@@ -1,7 +1,8 @@
 ---
-id: star_wars
+id: version-1.0.0-star_wars
 title: Star Wars
-sidebar_label: "Star Wars: v.2"
+sidebar_label: Star Wars: v.1
+original_id: star_wars
 ---
 
 # Star Wars: New Hope
