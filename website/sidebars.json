@@ -3,7 +3,8 @@
     "Docusaurus": ["doc1"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
-    "Star Wars":["star_wars"]
+    "Star Wars":["star_wars"],
+    "Dollar Trilogy":["dollar_trilogy"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
