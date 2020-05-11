@@ -1,7 +1,8 @@
 ---
-id: star_wars
+id: version-1.0.1-star_wars
 title: Star Wars
-sidebar_label: "Star Wars: v.2"
+sidebar_label: Star Wars: v.2
+original_id: star_wars
 ---
 
 # Star Wars: New Hope
@@ -17,6 +18,6 @@ Star Wars exceeded all expectations. The success of the film and its merchandise
 
 Three years after the destruction of the Death Star, the Empire forces the Rebel Alliance to evacuate its secret base on Hoth. Instructed by Obi-Wan's spirit, Luke travels to the swamp world of Dagobah to find the exiled Jedi Master Yoda. Luke's Jedi training is interrupted by Vader, who lures him into a trap by capturing Han and Leia at Cloud City, governed by Han's old friend Lando. During a fierce duel, Vader reveals a shocking truth about Luke's father.
 
-Owing to financial concerns, Alan Dean Foster's sequel novel, Splinter of the Mind's Eye (1978), restricted the story to Luke, Leia, and Darth Vader. After the success of the original film, Lucas knew a sequel would be granted a reasonable budget, and hired Leigh Brackett to write it from scratch. She finished a draft by early 1978, but died of cancer before Lucas was able to discuss changes he wanted her to make. His disappointment with the first draft may have made him consider new directions. Lucas penned the next draft, the first screenplay to feature episodic numbering for a Star Wars story. Lucas found this draft enjoyable to write, as opposed to the yearlong struggle writing the first film, and quickly wrote two more in April 1978. The plot twist of Vader being Luke's father had drastic effects on the series. After writing these drafts, Lucas fleshed out the backstory between Anakin, Obi-Wan, and the Emperor.
+Owing to financial concerns, Alan Dean Foster's sequel novel, Splinter of the Mind's Eye (1978), restricted the story to Luke, Leia, and Darth Vader. After the success of the original film, Lucas knew a sequel would be granted a reasonable budget, and hired Leigh Brackett to write it from scratch. She finished a draft by early 1978, but died of cancer before Lucas was able to discuss changes he wanted her to make. His disappointment with the first draft may have made him consider new directions. Lucas penned the next draft, the first screenplay to feature episodic numbering for a Star Wars story.[37] Lucas found this draft enjoyable to write, as opposed to the yearlong struggle writing the first film, and quickly wrote two more in April 1978. The plot twist of Vader being Luke's father had drastic effects on the series.[39] After writing these drafts, Lucas fleshed out the backstory between Anakin, Obi-Wan, and the Emperor.[40]
 
-With this new backstory in place, Lucas decided that the series would be a trilogy of trilogies, designating the first sequel Episode V: The Empire Strikes Back in the next draft. Lawrence Kasdan, who had just completed writing Raiders of the Lost Ark, was hired to write the next drafts, and given additional input from director Irvin Kershner. Kasdan, Kershner, and producer Gary Kurtz saw the film as a more serious and adult story, and developed the sequel from the light adventure roots of the first film.
+With this new backstory in place, Lucas decided that the series would be a trilogy of trilogies,[20] designating the first sequel Episode V: The Empire Strikes Back in the next draft.[38] Lawrence Kasdan, who had just completed writing Raiders of the Lost Ark, was hired to write the next drafts, and given additional input from director Irvin Kershner. Kasdan, Kershner, and producer Gary Kurtz saw the film as a more serious and adult story, and developed the sequel from the light adventure roots of the first film.[41]
