@@ -1,0 +1,28 @@
+{
+  "version-1.0.4-docs": {
+    "Docusaurus": [
+      "version-1.0.4-doc1"
+    ],
+    "First Category": [
+      "version-1.0.4-doc2"
+    ],
+    "Second Category": [
+      "version-1.0.4-doc3"
+    ],
+    "Star Wars": [
+      "version-1.0.4-star_wars"
+    ],
+    "Dollar Trilogy": [
+      "version-1.0.4-dollar_trilogy"
+    ],
+    "Guy Ritchie": [
+      "version-1.0.4-guy_ritchie/lock_stock_two_smoking_barrels"
+    ]
+  },
+  "version-1.0.4-docs-other": {
+    "First Category": [
+      "version-1.0.4-doc4",
+      "version-1.0.4-doc5"
+    ]
+  }
+}

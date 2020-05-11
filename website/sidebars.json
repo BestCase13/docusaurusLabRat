@@ -5,7 +5,7 @@
     "Second Category": ["doc3"],
     "Star Wars":["star_wars"],
     "Dollar Trilogy":["dollar_trilogy"],
-    "Guy Ritchie":["guy_ritchie/lock_stock_two_smoking_barrels"]
+    "Guy Ritchie":["guy_ritchie/lock_stock_two_smoking_barrels", "guy_ritchie/snatch"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
